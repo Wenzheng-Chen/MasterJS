@@ -1,0 +1,1 @@
+Welcome to the MasterJS project. This repository aims to collect and summarize advanced JavaScript knowledge, including related source code and reference documents. Whether you're looking to deepen your understanding of JavaScript or find specific solutions to complex problems, this project should serve as a valuable resource.
